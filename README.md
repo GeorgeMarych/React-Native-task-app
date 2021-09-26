@@ -17,8 +17,8 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-$ git clone https://github.com/GeorgeMarych/scandiweb-test
-$ cd scandiweb-test
+$ git clone https://github.com/GeorgeMarych/React-Native-task-app
+$ cd React-Native-task-app
 $ npm install
 $ npm start
 $ Note that you will need expo.
